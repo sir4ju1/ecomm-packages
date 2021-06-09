@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <PackageId>EcommCommon</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <RepositoryUrl>https://github.com/sir4ju1/ecomm-packages</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
